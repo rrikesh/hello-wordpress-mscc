@@ -1,0 +1,20 @@
+/*
+Theme Name: MSCC Theme Development Demo
+Author: Rikesh Ramlochund
+Author URI: http://rikesh.com
+Description: This is a minimal theme that will help beginners understand WordPress <a href="http://codex.wordpress.org/Theme_Development">Theme Development</a> and the Template Hierarchy. Theme based <a href="http://getbootstrap.com/examples/blog/">Blog template</a> built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.
+Version: 1.0
+*/
+
+.sidebar-module ul{
+  list-style: none outside none;
+  padding-left: 0;
+}
+
+.blog-nav a{
+     color: #CDDDEB;
+    display: inline-block;
+    font-weight: 500;
+    padding: 10px;
+    position: relative;
+}
